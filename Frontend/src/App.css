@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+.cardkibody{
+  box-shadow: 0px 0px 6px rgb(133 120 0 / 60%);
+  background: radial-gradient(#64ff004f, transparent);
+}
+.textareashadow{
+  box-shadow: 0px 0px 4px;
+  background: transparent;
+}
+.fontforh1{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
